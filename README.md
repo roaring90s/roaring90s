@@ -12,7 +12,7 @@
 
 ## 🔧 **Skills & Tools**  
 - 📊 **Data Analysis:** SQL, Spreadsheets, R  
-- 📈 **Data Visualization:** Tableau, R ggplot2  
+- 📈 **Data Visualization:** Tableau, R
 - 🏗️ **Web Development:** JavaScript, Node.js, HTML, CSS  
 - 🛠️ **Version Control & Collaboration:** Git, GitHub  
 
