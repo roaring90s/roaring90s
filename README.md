@@ -36,6 +36,7 @@
 ## 🌍 **Connect with Me**  
 💼 **LinkedIn:** [Marcos Sousa](https://www.linkedin.com/in/marcos-sousa-616375249/)  
 📂 **GitHub:** [roaring90s](https://github.com/roaring90s)
-✉️ **E-mail**[E-mail](mailto:contato.marcos90s@gmail.com)
+
+✉️ **E-mail:**[Contact me!](mailto:contato.marcos90s@gmail.com)
 
 > "Knowledge is power, but **applied knowledge** is the true magic!"  
