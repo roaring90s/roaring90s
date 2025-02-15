@@ -12,11 +12,13 @@
 
 ### 📊 Data Science & Analytics
 
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/-Spreadsheets-217346?style=for-the-badge&logo=google-sheets&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoWidth=30" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=40&labelColor=black" />
+  <img src="https://img.shields.io/badge/-Spreadsheets-217346?style=for-the-badge&logo=google-sheets&logoColor=white&logoWidth=40&labelColor=black" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white&logoWidth=40&labelColor=black" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoWidth=40&labelColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40&labelColor=black" />
+</p>
 
 ---
 
