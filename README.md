@@ -44,7 +44,7 @@
 
 ## 📌 **What I'm Working On**
 - **Improving Data Wrangling** – Processing datasets efficiently with R & SQL  
-- **Building Interactive Dashboards** – Enhancing insights with Tableau & JavaScript  
+- **Building Interactive Dashboards** – Enhancing insights with Power BI & Python  
 - **Exploring Web Development** – Backend scripting and Frontend interface
 
 ---
