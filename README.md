@@ -4,7 +4,7 @@
   <img src="https://github.com/roaring90s/roaring90s/blob/main/portrait.png" width="20%" style="margin-right: 20px;" />
   <div>
     <h2>🏰 Welcome, Traveler!</h2>
-    <p>Passionate about Data Science & Development, I love turning data into insights and building interactive applications. Currently exploring SQL, R, JavaScript, and problem-solving techniques to optimize workflows and drive data-driven decisions.  </p>
+    <p>Passionate about Data Science & Development, I love turning data into insights and building interactive applications. Currently exploring SQL, Python, JavaScript, and problem-solving techniques to optimize workflows and drive data-driven decisions.  </p>
   </div>
 </div>
 
@@ -43,7 +43,7 @@
 ---
 
 ## 📌 **What I'm Working On**
-- **Improving Data Wrangling** – Processing datasets efficiently with R & SQL  
+- **Improving Data Wrangling** – Processing datasets efficiently with Python & SQL  
 - **Building Interactive Dashboards** – Enhancing insights with Power BI & Python  
 - **Exploring Web Development** – Backend scripting and Frontend interface
 
